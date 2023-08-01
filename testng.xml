@@ -6,6 +6,7 @@
       <class name="Ecommers.Amazon"/>
       <class name="Ecommers.flipkart"/>
       <class name="Ecommers.Myntra"/>
+      <class name="Ecommers.snapdeal"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- ecommtest -->

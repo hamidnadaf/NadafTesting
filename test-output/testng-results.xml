@@ -1,47 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[opening Amazon]]>
-    </line>
-    <line>
-      <![CDATA[opening Flipcart]]>
-    </line>
-    <line>
-      <![CDATA[opening Myntra]]>
-    </line>
   </reporter-output>
-  <suite started-at="2023-07-26T08:18:04 IST" name="ecommtest" finished-at="2023-07-26T08:19:07 IST" duration-ms="62919">
+  <suite started-at="2023-08-01T12:36:08 IST" name="Default suite" finished-at="2023-08-01T12:36:23 IST" duration-ms="15020">
     <groups>
     </groups>
-    <test started-at="2023-07-26T08:18:04 IST" name="Test" finished-at="2023-07-26T08:19:07 IST" duration-ms="62919">
-      <class name="Ecommers.Amazon">
-        <test-method signature="amazonTest()[pri:0, instance:Ecommers.Amazon@37afeb11]" started-at="2023-07-26T08:18:05 IST" name="amazonTest" finished-at="2023-07-26T08:18:36 IST" duration-ms="31704" status="PASS">
+    <test started-at="2023-08-01T12:36:08 IST" name="Default test" finished-at="2023-08-01T12:36:23 IST" duration-ms="15020">
+      <class name="Ecommers.snapdeal">
+        <test-method signature="snapdealTest()[pri:0, instance:Ecommers.snapdeal@6cf0e0ba]" started-at="2023-08-01T12:36:09 IST" name="snapdealTest" finished-at="2023-08-01T12:36:23 IST" duration-ms="14945" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[opening Amazon]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- amazonTest -->
-      </class> <!-- Ecommers.Amazon -->
-      <class name="Ecommers.flipkart">
-        <test-method signature="flipkartTest()[pri:0, instance:Ecommers.flipkart@72d1ad2e]" started-at="2023-07-26T08:18:36 IST" name="flipkartTest" finished-at="2023-07-26T08:18:49 IST" duration-ms="12570" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[opening Flipcart]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- flipkartTest -->
-      </class> <!-- Ecommers.flipkart -->
-      <class name="Ecommers.Myntra">
-        <test-method signature="myntraTest()[pri:0, instance:Ecommers.Myntra@2d7275fc]" started-at="2023-07-26T08:18:49 IST" name="myntraTest" finished-at="2023-07-26T08:19:07 IST" duration-ms="18596" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[opening Myntra]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- myntraTest -->
-      </class> <!-- Ecommers.Myntra -->
-    </test> <!-- Test -->
-  </suite> <!-- ecommtest -->
+        </test-method> <!-- snapdealTest -->
+      </class> <!-- Ecommers.snapdeal -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
